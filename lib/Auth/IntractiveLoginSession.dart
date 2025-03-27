@@ -18,8 +18,8 @@ class InteractiveLoginSession extends StatefulWidget{
 
 class _InteractiveLoginSessionState extends State<InteractiveLoginSession> {
   ///wd3278
-  TextEditingController APIKEYController = TextEditingController(text: 'e684ef54562df80aadd168');
-  TextEditingController SecretKey = TextEditingController(text: 'Evbu532\$Qo');
+  TextEditingController APIKEYController = TextEditingController(text: 'Your interactive session api');
+  TextEditingController SecretKey = TextEditingController(text: 'secrete key');
   TextEditingController loginThrough = TextEditingController(text: 'WEBAPI');
 
 

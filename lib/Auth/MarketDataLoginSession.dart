@@ -19,8 +19,8 @@ class MarketDataLoginSession extends StatefulWidget{
 
 class _MarketDataLoginSessionState extends State<MarketDataLoginSession> {
  ///wd3278
-   TextEditingController MarketAPIKEYController = TextEditingController(text: '64043dd5a9b0dc09c0e221');
-   TextEditingController MarketSecretKey = TextEditingController(text: 'Dyyf666\$m3');
+   TextEditingController MarketAPIKEYController = TextEditingController(text: 'Your market session api');
+   TextEditingController MarketSecretKey = TextEditingController(text: 'Market secrete key');
    TextEditingController MarketloginThrough = TextEditingController(text: 'WebAPI');
 
 
