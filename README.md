@@ -1,4 +1,4 @@
-**_Wisdom Capital Trading App**_
+**Wisdom Capital Trading App**
 
 _Overview_
 
@@ -83,3 +83,5 @@ This project is licensed under the MIT License.
 
 For any issues or feature requests, please raise an issue on GitHub or contact support.
 
+
+**Follow me on every social medie with same i'd:- @ayushk2s**
